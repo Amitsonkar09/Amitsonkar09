@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on open source project.
 - 📫 How to reach me amitsonkar2562@gmail.com
 - 😄 Pronouns: He☺️
-- ⚡ Fun fact: I am good at Sleeping😊
+- ⚡ Fun fact: I am good learner😊
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Amit+Sonkar;Web+Developer; Python+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Amit+Sonkar;Web+Developer; Python+Enthusiast;Open+Source+Contributor+AI ML" alt="Typing SVG" />
 </div>
 
 <div align="center">
